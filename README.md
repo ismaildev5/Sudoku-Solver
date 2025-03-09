@@ -1,12 +1,10 @@
-# Sudoku-Solver
-Sudoku Solver App
+# Sudoku Solver - GitHub Repository
 
-# Overview
-SudokuSolver.pro offers a powerful Killer Sudoku solver that quickly solves puzzles using advanced algorithms like constraint propagation and backtracking. You can export the solution as a PNG image for easy sharing.
+## Overview
 
-Features:
-Fast and Efficient: Solves complex puzzles.
-Export in PNG: Save the result as an image.
-Website Integration: Visit SudokuSolver.pro for more features.
-SEO & Backlink
-For better SEO visibility, we focus on keywords like Killer Sudoku, Sudoku Solver, and advanced solving techniques. Get more tools and information at SudokuSolver.pro.
+**SudokuSolver.pro** is a free advanced Killer [Sudoku solver](https://www.sudokusolver.pro) that leverages sophisticated algorithms, including **constraint propagation** and **backtracking**. It is designed to efficiently solve intricate puzzles and offers the added capability of exporting solutions as **PNG images** for ease of sharing and documentation.
+
+### Key Features:
+- **Efficient Algorithm**: Utilizes cutting-edge algorithms to solve Killer Sudoku puzzles rapidly.
+- **PNG Export**: Generate the solved puzzle in PNG format, suitable for sharing or printing.
+- **Web Integration**: Seamlessly integrate the solver into your website, [SudokuSolver.pro](https://www.sudokusolver.pro), to provide a streamlined user experience.
