@@ -2,7 +2,7 @@
 
 ## Overview
 
-**SudokuSolver.pro** is a free advanced Killer [Sudoku solver](https://www.sudokusolver.pro) that leverages sophisticated algorithms, including **constraint propagation** and **backtracking**. It is designed to efficiently solve intricate puzzles and offers the added capability of exporting solutions as **PNG images** for ease of sharing and documentation.
+**SudokuSolver.pro** is a free advanced Killer [sudoku solver](https://www.sudokusolver.pro) that leverages sophisticated algorithms, including **constraint propagation** and **backtracking**. It is designed to efficiently solve intricate puzzles and offers the added capability of exporting solutions as **PNG images** for ease of sharing and documentation.
 
 ### Key Features:
 - **Efficient Algorithm**: Utilizes cutting-edge algorithms to solve Killer Sudoku puzzles rapidly.
